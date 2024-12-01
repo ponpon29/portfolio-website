@@ -47,7 +47,7 @@ SNSでの発信、友人、知人への紹介
 
 
 ## 機能の実装方針予定
-Google places API  
+Google Maps Platform  
 食べログAPI
 
 
